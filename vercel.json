@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "functions": {
+    "api/grab-stream.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "build": {
+    "env": {
+      "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD": "true"
+    }
+  }
+}
