@@ -1,0 +1,10 @@
+{
+  "name": "movixohub-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Advanced Multi-Technique Stream Extractor",
+  "dependencies": {
+    "@sparticuz/chromium": "122.0.0",
+    "puppeteer-core": "22.0.0"
+  }
+}
